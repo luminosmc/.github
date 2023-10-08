@@ -12,5 +12,5 @@ Questo è l'account GitHub ufficiale del server di minecraft LuminosMC.
 ### CoOwner
 - XS RAF
 
-### JrDev
+### Dev
 - IlGrandeAnonimo
